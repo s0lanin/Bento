@@ -79,6 +79,7 @@ const CONFIG = {
 
   //Icons
   firstListIcon: 'book',
+  secondListIcon: 'loader',
 
   // Links
   lists: {
@@ -100,8 +101,22 @@ const CONFIG = {
         link: 'https://app.bibguru.com/p/7895ae76-c7f7-4e3e-a27b-a0c6de5b6a38',
       },
     ],
-
+    secondList: [
+      {
+        name: 'wallhaven.cc',
+        link: 'https://wallhaven.cc/',
+      },
+      {
+        name: 'Fitgirl',
+        link: 'https://fitgirl-repacks.site/',
+      },
+      {
+        name: 'Vimm.net',
+        link: 'https://vimm.net/?p=vault',
+      },
+      {
+        name: 'The Hunger Site',
+        link: 'https://thehungersite.greatergood.com/clicktogive/ths/home',
       },
     ],
   },
-};
