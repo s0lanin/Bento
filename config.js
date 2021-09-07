@@ -79,7 +79,6 @@ const CONFIG = {
 
   //Icons
   firstListIcon: 'book',
-  secondListIcon: 'power',
 
   // Links
   lists: {
@@ -101,22 +100,7 @@ const CONFIG = {
         link: 'https://app.bibguru.com/p/7895ae76-c7f7-4e3e-a27b-a0c6de5b6a38',
       },
     ],
-    secondList: [
-      {
-        name: 'Discord',
-        link: 'https://discord.com/app',
-      },
-      {
-        name: '',
-        link: 'https://figma.com/',
-      },
-      {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
-      },
-      {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+
       },
     ],
   },
