@@ -14,7 +14,7 @@ weather.temperature = {
   unit: 'celsius',
 };
 
-var tempUnit = CONFIG.weatherUnit;
+var tempUnit = 'F';
 
 const KELVIN = 273.15;
 // Use your own key for the Weather, Get it here: https://openweathermap.org/
