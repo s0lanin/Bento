@@ -33,55 +33,11 @@ const CONFIG = {
   // │  ├─┤├┬┘ ││└─┐
   // └─┘┴ ┴┴└──┴┘└─┘
 
-  // Links
-  cards: [
-    {
-      id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
-    },
-    {
-      id: '2',
-      name: 'SA Forums',
-      icon: 'trash',
-      link: 'https://forums.somethingawful.com/index.php',
-    },
-    {
-      id: '3',
-      name: '4ch',
-      icon: 'command',
-      link: 'https://4chan.org/',
-    },
-    {
-      id: '4',
-      name: 'Twitch',
-      icon: 'twitch',
-      link: 'https://www.twitch.tv/',
-    },
-    {
-      id: '5',
-      name: 'Twitter',
-      icon: 'twitter',
-      link: 'https://twitter.com/',
-    },
-    {
-      id: '6',
-      name: 'YouTube',
-      icon: 'youtube',
-      link: 'https://youtube.com/',
-    },
-  ],
-
-  // ┬  ┬┌─┐┌┬┐┌─┐
-  // │  │└─┐ │ └─┐
-  // ┴─┘┴└─┘ ┴ └─┘
-
-  //Icons
+//Icons
   firstListIcon: 'book',
   secondListIcon: 'loader',
 
-  // Links
+// Links
   lists: {
     firstList: [
       {
@@ -120,3 +76,4 @@ const CONFIG = {
       },
     ],
   },
+};
